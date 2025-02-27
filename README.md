@@ -13,7 +13,6 @@ I'm Tejas, a Full-Stack Developer with a passion for building innovative and use
 * [Farmer Learning and Selling Platform](https://[link-to-your-project-if-available]) - Built a platform catering to 500+ farmers, utilizing Django REST Framework and Next.js, implementing a product recommendation system that achieved a 15% increase in sales conversion.
 
 **Connect with me:**
-* [LinkedIn](https://www.linkedin.com/in/tejas-chaplot) 
-* [Twitter](https://twitter.com/tejas_chaplot) (optional)
+* [LinkedIn](https://www.linkedin.com/in/tejas-chaplot-343bb81b3) 
 
 **Fun Fact:** I enjoy hiking ⛰️, Cricket 🏏.
